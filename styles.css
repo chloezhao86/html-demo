@@ -1,0 +1,12 @@
+/* Styles for the whole page */
+body {
+  font-family: Arial, sans-serif; 
+  margin: 20px;
+  background-color: aquamarine;
+}
+
+/* Styles for all heading 1 elements */
+h1 {
+  color: blue;
+  text-align: center;
+}
